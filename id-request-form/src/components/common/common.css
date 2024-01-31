@@ -1,0 +1,26 @@
+.container{
+    
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width:auto;
+    margin:2.5cm auto auto;
+    background-color: whitesmoke;
+}
+.img{
+   max-height: 450px;
+}
+.carousel_container{
+    
+    align-items: center;
+    justify-content: center;   
+    margin:2.5cm auto auto;
+    background-color: #46d4d4;
+    padding: auto auto 2px 2px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 0px;
+}
