@@ -1,0 +1,14 @@
+.card-hover{
+    transition: all 1.5s;
+    margin:5px auto;
+}  
+
+.card-hover:hover {
+    background-color: rgb(193, 235, 248);
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    opacity: 0.8;
+}
+.card-container{
+    flex-wrap: wrap;
+}
